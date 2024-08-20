@@ -1,5 +1,22 @@
 d 'plssem': Partial least squares structural equation modelling (PLS-SEM) Use plssem With STATA 18
 d
+f _extract_valuelabels.ado
+f _nwdeploy.ado
+f _nwdialog.ado
+f _nwdialog_append.ado
+f _nwdialog_lablist.ado
+f _nwevalnetexp.ado
+f _nwnodeid.ado
+f _nwnodelab.ado
+f _nwsetobs.ado
+f _nwsyntax.ado
+f _nwsyntax_other.ado
+f _opts_oneof.ado
+f animate.ado
+f scheme-s1network.scheme
+f scheme-s2network.scheme
+f scheme-s3network.scheme
+f webnwuse.ado
 f lplssem.mlib
 f mkheader.ado
 f mktable.ado
