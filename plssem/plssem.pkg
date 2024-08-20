@@ -1,5 +1,16 @@
-d 'DEA': Data envelopment analysis
+d 'plssem': Partial least squares structural equation modelling (PLS-SEM) Use plssem With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lplssem.mlib
+f plssem.ado
+f plssem.sthlp
+f plssem_estat.ado
+f plssem_p.ado
+f plssem_postestimation.sthlp
+f plssemc.ado
+f plssemc.sthlp
+f plssemc_estat.ado
+f plssemc_postestimation.sthlp
+f plssemcmat.ado
+f plssemmat.ado
+f plssemplot.ado
+f plssemplot.sthlp
